@@ -32,9 +32,9 @@ Hi, I'm [Fachriyan Husaini](https://www.linkedin.com/in/fachriyan-husaini-398752
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning MySQL and C#; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [FachriyanHusaini](https://twitter.com/abhisheknaiidu);
+- 📫 How to reach me: [Fachriyan Husaini](https://www.linkedin.com/in/fachriyan-husaini-39875213b);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 **Languages and Tools:**  
@@ -74,6 +74,6 @@ Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="fachriyanh" />
 
 </details>
