@@ -25,7 +25,7 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Fachriyan Husaini](https://www.linkedin.com/in/fachriyan-husaini-39875213b), a Full Stack Developer 🚀 from Indonesia, currently
 
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
@@ -34,7 +34,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📫 How to reach me: [FachriyanHusaini](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 **Languages and Tools:**  
@@ -53,10 +53,10 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C##                   4 hrs 23 mins   ████████████████░░░░░░░░░   63.53 % 
+C#                    4 hrs 23 mins   ████████████████░░░░░░░░░   63.53 % 
 Node.js               2 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.50 % 
-GOlang                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Markdown              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Python                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Golang                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
