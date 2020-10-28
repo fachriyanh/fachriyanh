@@ -74,6 +74,6 @@ Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="fachriyanh" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fachriyanh&show_icons=true&theme=gotham" alt="fachriyanh" />
 
 </details>
