@@ -25,7 +25,7 @@
 
 <br />
 
-Hi, I'm [Fachriyan Husaini](https://www.linkedin.com/in/fachriyan-husaini-39875213b), a Full Stack Developer 🚀 from Indonesia, currently
+Hi, I'm [Fachriyan Husaini](https://www.linkedin.com/in/fachriyan-husaini-39875213b) from Indonesia, and currently I work for The Deposit Insurance Agency as a Fullstack Developer
 
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
