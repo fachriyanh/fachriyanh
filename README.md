@@ -7,7 +7,7 @@
 </a>
 <br />
 
-Hi, I'm [Fachriyan Husaini](https://www.linkedin.com/in/fachriyan-husaini-39875213b) from Indonesia, and currently I work for as a Software Developer
+Hi, I'm [Fachriyan Husaini](https://www.linkedin.com/in/fachriyan-husaini-39875213b) from Indonesia, and currently I work for Tokopedia as a Software Developer
 
 **Languages and Tools:**  
 
